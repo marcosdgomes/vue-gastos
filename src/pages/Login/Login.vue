@@ -2,7 +2,7 @@
   <form @submit.prevent="doLogin()" class="form-login">
       <div class="container card">
       	<div class="card-header text-center">
-      		<h1>Login</h1>
+      		<h1>Controle de Gastos</h1>
       	</div>
       	<div class="card-body">
       		<div class="form-group">
@@ -90,7 +90,7 @@ export default {
 			font-size: 18px;
 		}
 		.card{
-			width: 30%;
+			width: 60%;
 			color: var(--darker)
 		}
 	}
