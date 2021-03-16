@@ -9,9 +9,10 @@ $light: #fff !important !important;
 
 $featured: #ff9900 !important;
 $featured-dark: #d68100 !important;
+$blue-new: #3498db !important;
 
 :root {
-	--dark: #{$dark};
+	--dark: #{$light};
 	--darker: #{$darker};
 	--dark-medium: #{$dark-medium};
 	--dark-low: #{$dark-low};
@@ -21,4 +22,5 @@ $featured-dark: #d68100 !important;
 	--light: #{$light};
 	--featured: #{$featured};
 	--featured-dark: #{$featured-dark};
+	--blue-new: #{$blue-new};
 }

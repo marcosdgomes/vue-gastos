@@ -7,7 +7,7 @@
    <div class="container-fluid" v-if="isLogged">
      <div class="row">
        <div class="col-2 navigation-sidebar">
-          <h1 class="app-title">Expenses</h1>
+          <h1 class="app-title">Gestão</h1>
           <LayoutNavigation/>
        </div>
        <div class="col">
