@@ -1,0 +1,30 @@
+{
+  "name": "vue-firebase",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "core-js": "^3.6.5",
+    "firebase": "^7.24.0",
+    "firebase-tools": "^9.6.1",
+    "lodash.groupby": "^4.6.0",
+    "moment": "^2.27.0",
+    "sass": "^1.32.8",
+    "vue": "^2.6.11",
+    "vue-cli": "^2.9.6",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-router": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
