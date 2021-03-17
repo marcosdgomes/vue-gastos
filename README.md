@@ -1,8 +1,8 @@
 # Gastos Pessoais 1.0
 
-Aplicação de gastos pessoais com metodo de autenticação e banco de dados firebase criada para fins didáticos.<bt>
+Aplicação de gastos pessoais com metodo de autenticação e banco de dados firebase criada para fins didáticos.<br>
 Demonstração do sistema
-Link:
+Link: https://vue-gastos.vercel.app/
 ```
 Usuário: teste@teste.com
 Senha: 123456
